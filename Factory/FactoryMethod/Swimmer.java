@@ -13,7 +13,7 @@ public class Swimmer {
    String lineNumber = st.nextToken();    //ignore and discard
    firstName = st.nextToken();
    lastName = st.nextToken();
-   age = new Integer(st.nextToken().trim()).intValue();
+   age = Integer.valueOf(st.nextToken().trim()).intValue();
    club = st.nextToken().trim();
    
    String stime = st.nextToken().trim();
@@ -21,8 +21,7 @@ public class Swimmer {
    if (i > 0) {
       stime = stime.substring(0, i) + stime.substring(i+1);
    }
-   time = new Float(stime).floatValue();
-   
+   time = Float.valueOf(stime).floatValue();
    }
    
    //-------------------------------

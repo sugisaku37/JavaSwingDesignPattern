@@ -1,49 +1,49 @@
-wJavaŽÀ—áƒvƒƒOƒ‰ƒ€‚É‚æ‚éƒfƒUƒCƒ“ƒpƒ^[ƒ““ü–åuÀx
-•t‘®CD-ROM‚É‚Â‚¢‚Ä
+ã€ŽJavaå®Ÿä¾‹ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã«ã‚ˆã‚‹ãƒ‡ã‚¶ã‚¤ãƒ³ãƒ‘ã‚¿ãƒ¼ãƒ³å…¥é–€è¬›åº§ã€
+ä»˜å±žCD-ROMã«ã¤ã„ã¦
 
-‚±‚Ì•t‘®CD-ROM‚É‚ÍA–{‘‚ÅÐ‰î‚µ‚½ƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€‚Ì
-ƒ\[ƒXƒR[ƒhi.javaƒtƒ@ƒCƒ‹j‚ÆA
-‚»‚ê‚ç‚ðƒRƒ“ƒpƒCƒ‹‚µ‚½Œ‹‰Ê‚Ì.classƒtƒ@ƒCƒ‹‚ðŽû˜^‚µ‚Ä‚¢‚Ü‚·B
+ã“ã®ä»˜å±žCD-ROMã«ã¯ã€æœ¬æ›¸ã§ç´¹ä»‹ã—ãŸã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®
+ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ï¼ˆ.javaãƒ•ã‚¡ã‚¤ãƒ«ï¼‰ã¨ã€
+ãã‚Œã‚‰ã‚’ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã—ãŸçµæžœã®.classãƒ•ã‚¡ã‚¤ãƒ«ã‚’åŽéŒ²ã—ã¦ã„ã¾ã™ã€‚
 
-‚²—˜—p‚É‚È‚é‘O‚ÉAŽŸ‚Ì’ˆÓŽ–€‚É—¯ˆÓ‚µ‚Ä‚¨‚¢‚Ä‚­‚¾‚³‚¢B
+ã”åˆ©ç”¨ã«ãªã‚‹å‰ã«ã€æ¬¡ã®æ³¨æ„äº‹é …ã«ç•™æ„ã—ã¦ãŠã„ã¦ãã ã•ã„ã€‚
 
-¡@CD-ROM‚ÍAŒ´‘¥‚Æ‚µ‚ÄA”j‘¹‚µ‚Ä‚àŒðŠ·‚Å‚«‚Ü‚¹‚ñB
-@@•K—v‚É‰ž‚¶‚ÄƒoƒbƒNƒAƒbƒv‚ð‚Æ‚Á‚Ä‘åØ‚É•ÛŠÇ‚µ‚Ä‚­‚¾‚³‚¢B
+â– ã€€CD-ROMã¯ã€åŽŸå‰‡ã¨ã—ã¦ã€ç ´æã—ã¦ã‚‚äº¤æ›ã§ãã¾ã›ã‚“ã€‚
+ã€€ã€€å¿…è¦ã«å¿œã˜ã¦ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã‚’ã¨ã£ã¦å¤§åˆ‡ã«ä¿ç®¡ã—ã¦ãã ã•ã„ã€‚
 
-¡@ƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€‚ðŽg—pA‰^—p‚µ‚½Œ‹‰Ê‚É‚Â‚¢‚Ä‚ÍA
-@@’˜ŽÒA–óŽÒA•ÒWŽÒAŠ”Ž®‰ïŽÐƒsƒAƒ\ƒ“EƒGƒfƒ…ƒP[ƒVƒ‡ƒ“‚Í
-@@‚»‚ÌÓ”C‚ðˆêØ•‰‚¢‚Ü‚¹‚ñB
-@@‚Ç‚Ì‚æ‚¤‚Èê‡‚àŽg—pŽÒ‚ÌÓ”C‚É‚¨‚¢‚ÄŽg—p‚µ‚Ä‚­‚¾‚³‚¢B
+â– ã€€ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’ä½¿ç”¨ã€é‹ç”¨ã—ãŸçµæžœã«ã¤ã„ã¦ã¯ã€
+ã€€ã€€è‘—è€…ã€è¨³è€…ã€ç·¨é›†è€…ã€æ ªå¼ä¼šç¤¾ãƒ”ã‚¢ã‚½ãƒ³ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã¯
+ã€€ã€€ãã®è²¬ä»»ã‚’ä¸€åˆ‡è² ã„ã¾ã›ã‚“ã€‚
+ã€€ã€€ã©ã®ã‚ˆã†ãªå ´åˆã‚‚ä½¿ç”¨è€…ã®è²¬ä»»ã«ãŠã„ã¦ä½¿ç”¨ã—ã¦ãã ã•ã„ã€‚
 
-CD-ROM‚ÍA‰º‹L‚ÌƒtƒHƒ‹ƒ_‚©‚ç\¬‚³‚ê‚Ä‚¢‚Ü‚·B
-‚»‚ê‚¼‚ê‚ÌƒtƒHƒ‹ƒ_–¼‚ÍA
-ŠY“–‚·‚éƒfƒUƒCƒ“ƒpƒ^[ƒ“‚Ì–¼‘O‚ð•\‚µ‚Ä‚¢‚Ü‚·B
+CD-ROMã¯ã€ä¸‹è¨˜ã®ãƒ•ã‚©ãƒ«ãƒ€ã‹ã‚‰æ§‹æˆã•ã‚Œã¦ã„ã¾ã™ã€‚
+ãã‚Œãžã‚Œã®ãƒ•ã‚©ãƒ«ãƒ€åã¯ã€
+è©²å½“ã™ã‚‹ãƒ‡ã‚¶ã‚¤ãƒ³ãƒ‘ã‚¿ãƒ¼ãƒ³ã®åå‰ã‚’è¡¨ã—ã¦ã„ã¾ã™ã€‚
 
-ƒtƒHƒ‹ƒ_@@@@@@ŠY“–‚·‚éÍ
+ãƒ•ã‚©ãƒ«ãƒ€ã€€ã€€ã€€ã€€ã€€ã€€è©²å½“ã™ã‚‹ç« 
 ----------------------------------------
-AbstractFactory @@‘æ5Í
-Adapter @@@@@@‘æ9Í
-Bridge@@@@@@@‘æ10Í
-Builder @@@@@@‘æ7Í
-ChainOfResp @@@@‘æ16Í
-Command @@@@@@‘æ17Í
-Composite @@@@@‘æ11Í
-Decorator @@@@@‘æ12Í
-Facade@@@@@@@‘æ13Í
-Factory @@@@@@‘æ3ÍA‘æ4Í
-Flyweight @@@@@‘æ14Í
-Interpreter @@@@‘æ18Í
-Iterator@@@@@@‘æ19Í
-Mediator@@@@@@‘æ20Í
-Memento @@@@@@‘æ21Í
-Observer@@@@@@‘æ22Í
-Prototype @@@@@‘æ8Í
-Proxy @@@@@@@‘æ15Í
-Singleton @@@@@‘æ6Í
-State @@@@@@@‘æ23Í
-Strategy@@@@@@‘æ24Í
-Swing @@@@@@@‘æ28Í`‘æ33Í
-Template@@@@@@‘æ25Í
-Visitor @@@@@@‘æ26Í
+AbstractFactory ã€€ã€€ç¬¬5ç« 
+Adapter ã€€ã€€ã€€ã€€ã€€ã€€ç¬¬9ç« 
+Bridgeã€€ã€€ã€€ã€€ã€€ã€€ã€€ç¬¬10ç« 
+Builder ã€€ã€€ã€€ã€€ã€€ã€€ç¬¬7ç« 
+ChainOfResp ã€€ã€€ã€€ã€€ç¬¬16ç« 
+Command ã€€ã€€ã€€ã€€ã€€ã€€ç¬¬17ç« 
+Composite ã€€ã€€ã€€ã€€ã€€ç¬¬11ç« 
+Decorator ã€€ã€€ã€€ã€€ã€€ç¬¬12ç« 
+Facadeã€€ã€€ã€€ã€€ã€€ã€€ã€€ç¬¬13ç« 
+Factory ã€€ã€€ã€€ã€€ã€€ã€€ç¬¬3ç« ã€ç¬¬4ç« 
+Flyweight ã€€ã€€ã€€ã€€ã€€ç¬¬14ç« 
+Interpreter ã€€ã€€ã€€ã€€ç¬¬18ç« 
+Iteratorã€€ã€€ã€€ã€€ã€€ã€€ç¬¬19ç« 
+Mediatorã€€ã€€ã€€ã€€ã€€ã€€ç¬¬20ç« 
+Memento ã€€ã€€ã€€ã€€ã€€ã€€ç¬¬21ç« 
+Observerã€€ã€€ã€€ã€€ã€€ã€€ç¬¬22ç« 
+Prototype ã€€ã€€ã€€ã€€ã€€ç¬¬8ç« 
+Proxy ã€€ã€€ã€€ã€€ã€€ã€€ã€€ç¬¬15ç« 
+Singleton ã€€ã€€ã€€ã€€ã€€ç¬¬6ç« 
+State ã€€ã€€ã€€ã€€ã€€ã€€ã€€ç¬¬23ç« 
+Strategyã€€ã€€ã€€ã€€ã€€ã€€ç¬¬24ç« 
+Swing ã€€ã€€ã€€ã€€ã€€ã€€ã€€ç¬¬28ç« ã€œç¬¬33ç« 
+Templateã€€ã€€ã€€ã€€ã€€ã€€ç¬¬25ç« 
+Visitor ã€€ã€€ã€€ã€€ã€€ã€€ç¬¬26ç« 
 
-Š”Ž®‰ïŽÐƒsƒAƒ\ƒ“EƒGƒfƒ…ƒP[ƒVƒ‡ƒ“
+æ ªå¼ä¼šç¤¾ãƒ”ã‚¢ã‚½ãƒ³ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³

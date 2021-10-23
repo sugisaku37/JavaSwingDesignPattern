@@ -5,4 +5,3 @@ public interface AwtList
      public String[] getSelectedItems();
 
 }
-

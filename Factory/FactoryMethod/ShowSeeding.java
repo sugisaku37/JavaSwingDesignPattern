@@ -29,7 +29,7 @@ public class ShowSeeding extends JxFrame
    events.addElement(new PrelimEvent("100free.txt", 6));
    evList.add("100 Free");
    
-   setSize(new Dimension(300,200));
+   setSize(new Dimension(400,200));
    setVisible(true);
 
    }
@@ -41,10 +41,10 @@ public class ShowSeeding extends JxFrame
       System.out.println("index="+index);
       Event ev = (Event)events.elementAt(index);
       Seeding sd = ev.getSeeding();
-      Enumeration enum  =sd.getSwimmers();
-      while(enum.hasMoreElements())
+      Enumeration Enumeration = sd.getSwimmers();
+      while(Enumeration.hasMoreElements())
       {
-         Swimmer sw = (Swimmer)enum.nextElement();
+         Swimmer sw = (Swimmer) Enumeration.nextElement();
          swList.add(sw.getHeat()+" "+sw.getLane()+" "+sw.getName()+" "+sw.getTime());
       }
    }
